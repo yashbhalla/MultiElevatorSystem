@@ -1,0 +1,15 @@
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/bin/Debug/net7.0/Elevator
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/bin/Debug/net7.0/Elevator.deps.json
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/bin/Debug/net7.0/Elevator.runtimeconfig.json
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/bin/Debug/net7.0/Elevator.dll
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/bin/Debug/net7.0/Elevator.pdb
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/obj/Debug/net7.0/Elevator.csproj.AssemblyReference.cache
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/obj/Debug/net7.0/Elevator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/obj/Debug/net7.0/Elevator.AssemblyInfoInputs.cache
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/obj/Debug/net7.0/Elevator.AssemblyInfo.cs
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/obj/Debug/net7.0/Elevator.csproj.CoreCompileInputs.cache
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/obj/Debug/net7.0/Elevator.dll
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/obj/Debug/net7.0/refint/Elevator.dll
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/obj/Debug/net7.0/Elevator.pdb
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/obj/Debug/net7.0/Elevator.genruntimeconfig.cache
+/Users/yashbhalla/Documents/Elevator/Elevator/Elevator/obj/Debug/net7.0/ref/Elevator.dll

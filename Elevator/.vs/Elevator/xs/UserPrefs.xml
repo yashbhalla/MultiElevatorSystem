@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BF71D4F2-E3CA-4570-A0F8-0D5F6F458987}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Elevator/Elevator.cs">
+    <Files>
+      <File FileName="Elevator/Elevator.cs" Line="143" Column="28" />
+      <File FileName="Elevator/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Elevator" expanded="True">
+            <Node name="Elevator" expanded="True">
+              <Node name="Elevator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Elevator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
