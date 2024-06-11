@@ -22,3 +22,11 @@ C#
 
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss your ideas.
 
+Thank you for checking out the Multi-Elevator Control System!
+
+
+
+
+
+
+
